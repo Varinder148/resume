@@ -1,5 +1,5 @@
 section{
-  min-height: calc(100vh - 8rem - 4rem);
+  min-height: calc(100vh - 8rem - 5rem);
   padding: 2rem;
 }
 footer{
@@ -9,6 +9,7 @@ footer{
 }
 .title {
   // padding: 0.5rem 0rem;
+  padding-top: 1rem;
   text-align: center;
   line-height: 4rem;
   font-size: 2rem;
