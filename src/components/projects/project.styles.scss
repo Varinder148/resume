@@ -1,0 +1,23 @@
+.projects{
+  background: #9BD7D5;
+  color:black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  h3{
+    text-transform: uppercase;
+    text-align: center;
+  }
+  span{
+    // border:1px solid red;
+    text-decoration: none;
+  }
+  ul{
+    list-style-type: none;
+    li{
+      color:#505050;
+      padding: 0.5rem;
+    }
+  }
+}

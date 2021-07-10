@@ -1,0 +1,17 @@
+section{
+  min-height: calc(100vh - 8rem - 4rem);
+  padding: 2rem;
+}
+footer{
+  min-height: calc(100vh - 8rem );
+  padding: 2rem;
+
+}
+.title {
+  // padding: 0.5rem 0rem;
+  text-align: center;
+  line-height: 4rem;
+  font-size: 2rem;
+  color:#505050;
+  background: hsla(179, 41%, 57%, 0.219)
+}

@@ -1,0 +1,41 @@
+.light-grey{
+  background: hsl(0, 0%, 43%);
+  color:white;
+}
+
+.experience-wrapper {
+  background: #505050;
+  padding: 2rem;
+  
+
+  .experience{
+    padding: 0.5rem 0rem;
+  }
+
+  .company {
+    font-size: 2rem;
+    color: aquamarine;
+  }
+
+  .title-wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    .job-title {
+      font-style: italic;
+    }
+    .time {
+      color: aquamarine;
+
+      padding-right: 2rem;
+    }
+  }
+  .responsibilities {
+    // border: 1px solid aqua;
+    li {
+      // padding: 1rem;
+      margin: 0rem 2rem;
+      list-style-type: circle;
+    }
+  }
+}

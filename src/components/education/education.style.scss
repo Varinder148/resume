@@ -1,0 +1,16 @@
+.edu-wrapper {
+  background: hsl(7, 95%, 64%);
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  text-align: end;
+  .college {
+    font-size: 1.5rem;
+  }
+}
+
+.light-red{
+  background: hsl(7, 96%, 70%);
+}
