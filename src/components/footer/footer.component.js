@@ -10,10 +10,9 @@ const Footer = () => (
       <div className="footer">
         <div>with React</div>
         <div>for Fisdom</div>
-        <div>by Varinder
-          <p>Contact me - +91 7696134521, varindersingh14.vs@gmail.com</p>
-        </div>
+        <div>by Varinder</div>
       </div>
+      <p>Contact me - +91 7696134521, varindersingh14.vs@gmail.com</p>
     </footer>
   </>
 );

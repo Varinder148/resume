@@ -1,7 +1,7 @@
 import "./header.styles.scss";
 import { Link } from "react-router-dom";
 
-import juneResume from '../../assets/juneResume.pdf'
+import juneResume from '../../assets/JuneResume.pdf'
 
 const Header = () => {
   let skills = ["Java", "React", "JavaScript", "CSS", "AWS"];

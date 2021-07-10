@@ -16,7 +16,7 @@ const Project = () => {
   ];
   return (
     <>
-      <h2 className="title">Personal Projects</h2>
+      <h2 className="title light-blue">Personal Projects</h2>
       <section className="projects">
         {projects.map((project) => (
           <div key={project.name}>
